@@ -1,0 +1,11 @@
+{
+  "name": "TabEx",
+  "description": "Tablet Extension for convertibles devices",
+  "uuid": "tabex@barnix.io",
+  "shell-version": [
+    "41"
+  ],
+  "version": 0.1,
+  "url": "https://github.com/barnscott/tabex",
+  "settings-schema": "org.gnome.shell.extensions.tabex"
+}
